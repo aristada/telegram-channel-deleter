@@ -1,5 +1,5 @@
+telegram-channel-deleter, also known as TCD is a telegram activity involving the application of message deletion to a user's channel
 
-## Deletes all posts from a channel (if you have the permissions)
 
 ya know the drill:
 
