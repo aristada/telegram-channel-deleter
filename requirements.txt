@@ -1,3 +1,3 @@
-telethon
-tqdm
-dotenv
+python-dotenv==1.0.1
+Telethon==1.38.1
+tqdm==4.67.1
