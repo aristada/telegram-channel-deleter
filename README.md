@@ -6,11 +6,6 @@ ya know the drill:
 ```bash
 pip install -r requirements.txt
 ```  
-or just  
-```bash
-chmod +x install_req.sh
-./install_req.sh
-```
 
 Run the script, its pretty self explanatory:
 ```bash
